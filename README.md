@@ -15,6 +15,7 @@
 | ------- |
 | [0079-word-search](https://github.com/LokeshDandwani/DSA/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/LokeshDandwani/DSA/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/LokeshDandwani/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [1036-rotting-oranges](https://github.com/LokeshDandwani/DSA/tree/master/1036-rotting-oranges) |
 | [1331-path-with-maximum-gold](https://github.com/LokeshDandwani/DSA/tree/master/1331-path-with-maximum-gold) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/LokeshDandwani/DSA/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -50,5 +51,10 @@
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/LokeshDandwani/DSA/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/LokeshDandwani/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/LokeshDandwani/DSA/tree/master/2022-maximum-alternating-subsequence-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/LokeshDandwani/DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
