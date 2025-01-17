@@ -10,6 +10,7 @@
 | ------- |
 | [2509-minimize-xor](https://github.com/LokeshDandwani/DSA/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/LokeshDandwani/DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2792-neighboring-bitwise-xor](https://github.com/LokeshDandwani/DSA/tree/master/2792-neighboring-bitwise-xor) |
 ## Array
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | [1331-path-with-maximum-gold](https://github.com/LokeshDandwani/DSA/tree/master/1331-path-with-maximum-gold) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/LokeshDandwani/DSA/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/LokeshDandwani/DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2792-neighboring-bitwise-xor](https://github.com/LokeshDandwani/DSA/tree/master/2792-neighboring-bitwise-xor) |
 ## Brainteaser
 |  |
 | ------- |
