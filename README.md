@@ -19,6 +19,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/LokeshDandwani/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [1036-rotting-oranges](https://github.com/LokeshDandwani/DSA/tree/master/1036-rotting-oranges) |
 | [1331-path-with-maximum-gold](https://github.com/LokeshDandwani/DSA/tree/master/1331-path-with-maximum-gold) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/LokeshDandwani/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/LokeshDandwani/DSA/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/LokeshDandwani/DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/LokeshDandwani/DSA/tree/master/2792-neighboring-bitwise-xor) |
@@ -45,10 +46,12 @@
 | [0079-word-search](https://github.com/LokeshDandwani/DSA/tree/master/0079-word-search) |
 | [1036-rotting-oranges](https://github.com/LokeshDandwani/DSA/tree/master/1036-rotting-oranges) |
 | [1331-path-with-maximum-gold](https://github.com/LokeshDandwani/DSA/tree/master/1331-path-with-maximum-gold) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/LokeshDandwani/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/LokeshDandwani/DSA/tree/master/1036-rotting-oranges) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/LokeshDandwani/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,4 +62,16 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/LokeshDandwani/DSA/tree/master/0300-longest-increasing-subsequence) |
+## Graph
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/LokeshDandwani/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/LokeshDandwani/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/LokeshDandwani/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
