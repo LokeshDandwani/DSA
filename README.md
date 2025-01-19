@@ -17,6 +17,7 @@
 | [0079-word-search](https://github.com/LokeshDandwani/DSA/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/LokeshDandwani/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/LokeshDandwani/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0407-trapping-rain-water-ii](https://github.com/LokeshDandwani/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [1036-rotting-oranges](https://github.com/LokeshDandwani/DSA/tree/master/1036-rotting-oranges) |
 | [1331-path-with-maximum-gold](https://github.com/LokeshDandwani/DSA/tree/master/1331-path-with-maximum-gold) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/LokeshDandwani/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -44,12 +45,14 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/LokeshDandwani/DSA/tree/master/0079-word-search) |
+| [0407-trapping-rain-water-ii](https://github.com/LokeshDandwani/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [1036-rotting-oranges](https://github.com/LokeshDandwani/DSA/tree/master/1036-rotting-oranges) |
 | [1331-path-with-maximum-gold](https://github.com/LokeshDandwani/DSA/tree/master/1331-path-with-maximum-gold) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/LokeshDandwani/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/LokeshDandwani/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [1036-rotting-oranges](https://github.com/LokeshDandwani/DSA/tree/master/1036-rotting-oranges) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/LokeshDandwani/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Dynamic Programming
@@ -69,6 +72,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/LokeshDandwani/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/LokeshDandwani/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Shortest Path
 |  |
