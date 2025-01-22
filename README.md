@@ -21,6 +21,7 @@
 | [1036-rotting-oranges](https://github.com/LokeshDandwani/DSA/tree/master/1036-rotting-oranges) |
 | [1331-path-with-maximum-gold](https://github.com/LokeshDandwani/DSA/tree/master/1331-path-with-maximum-gold) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/LokeshDandwani/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/LokeshDandwani/DSA/tree/master/1876-map-of-highest-peak) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/LokeshDandwani/DSA/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2145-grid-game](https://github.com/LokeshDandwani/DSA/tree/master/2145-grid-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/LokeshDandwani/DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -51,6 +52,7 @@
 | [1036-rotting-oranges](https://github.com/LokeshDandwani/DSA/tree/master/1036-rotting-oranges) |
 | [1331-path-with-maximum-gold](https://github.com/LokeshDandwani/DSA/tree/master/1331-path-with-maximum-gold) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/LokeshDandwani/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/LokeshDandwani/DSA/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/LokeshDandwani/DSA/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/LokeshDandwani/DSA/tree/master/2685-first-completely-painted-row-or-column) |
 ## Breadth-First Search
@@ -59,6 +61,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/LokeshDandwani/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [1036-rotting-oranges](https://github.com/LokeshDandwani/DSA/tree/master/1036-rotting-oranges) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/LokeshDandwani/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/LokeshDandwani/DSA/tree/master/1876-map-of-highest-peak) |
 ## Dynamic Programming
 |  |
 | ------- |
