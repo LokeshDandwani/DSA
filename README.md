@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/LokeshDandwani/DSA/tree/master/0079-word-search) |
+| [0684-redundant-connection](https://github.com/LokeshDandwani/DSA/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/LokeshDandwani/DSA/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/LokeshDandwani/DSA/tree/master/1396-count-servers-that-communicate) |
 ## Matrix
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/LokeshDandwani/DSA/tree/master/0407-trapping-rain-water-ii) |
+| [0684-redundant-connection](https://github.com/LokeshDandwani/DSA/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/LokeshDandwani/DSA/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/LokeshDandwani/DSA/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/LokeshDandwani/DSA/tree/master/1396-count-servers-that-communicate) |
@@ -82,6 +84,7 @@
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/LokeshDandwani/DSA/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/LokeshDandwani/DSA/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/LokeshDandwani/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Heap (Priority Queue)
@@ -104,6 +107,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/LokeshDandwani/DSA/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/LokeshDandwani/DSA/tree/master/1396-count-servers-that-communicate) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/LokeshDandwani/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Counting
