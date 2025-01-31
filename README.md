@@ -18,6 +18,7 @@
 | [0198-house-robber](https://github.com/LokeshDandwani/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/LokeshDandwani/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0407-trapping-rain-water-ii](https://github.com/LokeshDandwani/DSA/tree/master/0407-trapping-rain-water-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/LokeshDandwani/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0854-making-a-large-island](https://github.com/LokeshDandwani/DSA/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/LokeshDandwani/DSA/tree/master/1036-rotting-oranges) |
 | [1331-path-with-maximum-gold](https://github.com/LokeshDandwani/DSA/tree/master/1331-path-with-maximum-gold) |
@@ -105,10 +106,12 @@
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/LokeshDandwani/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2685-first-completely-painted-row-or-column](https://github.com/LokeshDandwani/DSA/tree/master/2685-first-completely-painted-row-or-column) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/LokeshDandwani/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2145-grid-game](https://github.com/LokeshDandwani/DSA/tree/master/2145-grid-game) |
 ## Union Find
 |  |
