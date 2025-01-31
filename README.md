@@ -20,6 +20,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/LokeshDandwani/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/LokeshDandwani/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0854-making-a-large-island](https://github.com/LokeshDandwani/DSA/tree/master/0854-making-a-large-island) |
+| [0907-koko-eating-bananas](https://github.com/LokeshDandwani/DSA/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/LokeshDandwani/DSA/tree/master/1036-rotting-oranges) |
 | [1331-path-with-maximum-gold](https://github.com/LokeshDandwani/DSA/tree/master/1331-path-with-maximum-gold) |
 | [1396-count-servers-that-communicate](https://github.com/LokeshDandwani/DSA/tree/master/1396-count-servers-that-communicate) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/LokeshDandwani/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0907-koko-eating-bananas](https://github.com/LokeshDandwani/DSA/tree/master/0907-koko-eating-bananas) |
 ## Graph
 |  |
 | ------- |
