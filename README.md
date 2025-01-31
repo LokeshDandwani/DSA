@@ -22,6 +22,7 @@
 | [0854-making-a-large-island](https://github.com/LokeshDandwani/DSA/tree/master/0854-making-a-large-island) |
 | [0907-koko-eating-bananas](https://github.com/LokeshDandwani/DSA/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/LokeshDandwani/DSA/tree/master/1036-rotting-oranges) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/LokeshDandwani/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1331-path-with-maximum-gold](https://github.com/LokeshDandwani/DSA/tree/master/1331-path-with-maximum-gold) |
 | [1396-count-servers-that-communicate](https://github.com/LokeshDandwani/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/LokeshDandwani/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -89,6 +90,7 @@
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/LokeshDandwani/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/LokeshDandwani/DSA/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/LokeshDandwani/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Graph
 |  |
 | ------- |
