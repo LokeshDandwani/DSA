@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/LokeshDandwani/DSA/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/LokeshDandwani/DSA/tree/master/0100-same-tree) |
 | [0684-redundant-connection](https://github.com/LokeshDandwani/DSA/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/LokeshDandwani/DSA/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/LokeshDandwani/DSA/tree/master/0854-making-a-large-island) |
@@ -72,6 +73,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/LokeshDandwani/DSA/tree/master/0100-same-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/LokeshDandwani/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/LokeshDandwani/DSA/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/LokeshDandwani/DSA/tree/master/0820-find-eventual-safe-states) |
@@ -139,4 +141,12 @@
 |  |
 | ------- |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/LokeshDandwani/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/LokeshDandwani/DSA/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/LokeshDandwani/DSA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
