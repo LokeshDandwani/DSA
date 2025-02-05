@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/LokeshDandwani/DSA/tree/master/0079-word-search) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/LokeshDandwani/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Backtracking
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/LokeshDandwani/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/LokeshDandwani/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2685-first-completely-painted-row-or-column](https://github.com/LokeshDandwani/DSA/tree/master/2685-first-completely-painted-row-or-column) |
 ## Prefix Sum
 |  |
@@ -134,6 +136,7 @@
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/LokeshDandwani/DSA/tree/master/1396-count-servers-that-communicate) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/LokeshDandwani/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Topological Sort
 |  |
 | ------- |
