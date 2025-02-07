@@ -36,6 +36,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/LokeshDandwani/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/LokeshDandwani/DSA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/LokeshDandwani/DSA/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/LokeshDandwani/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Brainteaser
 |  |
 | ------- |
@@ -119,6 +120,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/LokeshDandwani/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/LokeshDandwani/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2685-first-completely-painted-row-or-column](https://github.com/LokeshDandwani/DSA/tree/master/2685-first-completely-painted-row-or-column) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/LokeshDandwani/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -153,4 +155,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/LokeshDandwani/DSA/tree/master/0100-same-tree) |
+## Simulation
+|  |
+| ------- |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/LokeshDandwani/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 <!---LeetCode Topics End-->
