@@ -24,6 +24,7 @@
 | [1036-rotting-oranges](https://github.com/LokeshDandwani/DSA/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/LokeshDandwani/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1331-path-with-maximum-gold](https://github.com/LokeshDandwani/DSA/tree/master/1331-path-with-maximum-gold) |
+| [1364-tuple-with-same-product](https://github.com/LokeshDandwani/DSA/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/LokeshDandwani/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/LokeshDandwani/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/LokeshDandwani/DSA/tree/master/1876-map-of-highest-peak) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/LokeshDandwani/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1364-tuple-with-same-product](https://github.com/LokeshDandwani/DSA/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/LokeshDandwani/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2685-first-completely-painted-row-or-column](https://github.com/LokeshDandwani/DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/LokeshDandwani/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -137,6 +139,7 @@
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/LokeshDandwani/DSA/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/LokeshDandwani/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/LokeshDandwani/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Topological Sort
